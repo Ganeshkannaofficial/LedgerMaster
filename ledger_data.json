@@ -1,0 +1,21 @@
+{
+    "accounts": [
+        {
+            "account_name": "gk",
+            "account_type": "Income",
+            "balance": 0.0
+        },
+        {
+            "account_name": "haritesla",
+            "account_type": "Liability",
+            "balance": 1000200.0
+        }
+    ],
+    "inventory": [
+        {
+            "item_name": "Keyboard",
+            "item_price": 12000.0,
+            "item_quantity": 3
+        }
+    ]
+}
